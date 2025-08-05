@@ -1,0 +1,32 @@
+{
+  "BALANCE": 10,
+  "ACTIVE": false,
+  "LAST_MENU_MESSAGE_ID": 230,
+  "PROFILES": [
+    {
+      "NAME": null,
+      "MIN_PRICE": 5000,
+      "MAX_PRICE": 10000,
+      "MIN_SUPPLY": 1000,
+      "MAX_SUPPLY": 20000,
+      "LIMIT": 1000000,
+      "COUNT": 5,
+      "TARGET_USER_ID": 7215739012,
+      "TARGET_CHAT_ID": null,
+      "TARGET_TYPE": null,
+      "SENDER": "userbot",
+      "BOUGHT": 0,
+      "SPENT": 0,
+      "DONE": false
+    }
+  ],
+  "USERBOT": {
+    "API_ID": 27837105,
+    "API_HASH": "16bdbb60be9155504c7b1a613a628908",
+    "PHONE": "+79968987626",
+    "USER_ID": 1000243095,
+    "USERNAME": "emoangel999",
+    "BALANCE": 2594,
+    "ENABLED": true
+  }
+}
